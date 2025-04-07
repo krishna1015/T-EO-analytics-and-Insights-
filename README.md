@@ -28,8 +28,7 @@ To provide a comprehensive view of sales, cost, and profit metrics, facilitating
 
 * **Year:** Filter data by year.
 * **Month Name:** Filter data by month.
-  ![image](https://github.com/krishna1015/Student-performance-dashboard-portfolio-project/blob/main/Screenshot%20(130).png)
-
+  ![image](https://github.com/krishna1015/T-EO-analytics-and-Insights-/blob/main/Analytics%20and%20insights%20.png)
 
 ## Dashboard 2: Product Returns Insights
 
