@@ -49,6 +49,7 @@ To analyze product return patterns and their financial impact, enabling proactiv
 
 * **Year:** Filter data by year.
 * **Month Name:** Filter data by month.
+  ![image](https://github.com/krishna1015/T-EO-analytics-and-Insights-/blob/main/Product%20Return%20Insights.png)
 
 ## Usage
 
